@@ -1,6 +1,6 @@
-### Hi there
+### Oii 👋
 
-## Oiii eu sou o Renato Côrtes, desenvolvedor front-end iniciante!
+## Oiii eu sou o Renato Côrtes, desenvolvedor front-end !
 <div align="center">
   <a href="https://github.com/renatocortess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatocortess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
