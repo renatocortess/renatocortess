@@ -33,16 +33,16 @@ You can access my professional portfolio at [renatocortes.tech](https://www.rena
 ## 🌍 **Contact Me**:
 
 <p align="center">
-  <a href="https://www.seusite.com" target="_blank">
+  <a href="https://www.renatocortes.tech" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/seunome" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/55xxxxxxxxxx" target="_blank">
+  <a href="https://wa.me/5598984095340?text=Ol%C3%A1!%20Visitei%20seu%20site%20e%20fiquei%20interessado.%20Gostaria%20de%20entrar%20em%20contato%20para%20conversarmos%20melhor." target="_blank" aria-label="WhatsApp">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/seunome" target="_blank">
+  <a href="https://www.linkedin.com/in/renatocortess/" target="_blank" aria-label="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/renatocortess" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
