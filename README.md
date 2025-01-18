@@ -1,28 +1,46 @@
 # Olá, sou [Seu Nome]! 👋
 
-Sou desenvolvedor front-end apaixonado por tecnologia e sempre em busca de soluções inovadoras para desafios do dia a dia.
+### Desenvolvedor Front-End | Apaixonado por tecnologia 🚀
 
-## 🚀 Tecnologias que utilizo
+🔧 **Tecnologias e ferramentas que utilizo**:
 
-Aqui estão as principais tecnologias que trabalho no meu dia a dia:
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Adianti_Framework-00D4D1?style=for-the-badge&logo=adianti&logoColor=black" />
+  <img src="https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat&logo=javascript) 
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php) 
-- ![Adianti Framework](https://img.shields.io/badge/-Adianti_Framework-00D4D1?style=flat&logo=adianti) 
-- ![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat&logo=postgresql) 
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+---
 
-## 🌐 Links
+## 🌍 **Conecte-se comigo**:
 
-Aqui estão alguns links para saber mais sobre meu trabalho e me conectar nas redes sociais:
+<p align="center">
+  <a href="https://www.seusite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/seunome" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/55xxxxxxxxxx" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/seunome" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-- 🌐 [Meu site](https://www.seusite.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/seunome)
-- 📱 [WhatsApp](https://wa.me/55xxxxxxxxxx)
-- 📸 [Instagram](https://www.instagram.com/seunome)
+---
 
-## 📖 Sobre mim
+## 💻 **Sobre mim**:
 
-Atualmente, estou trabalhando em um sistema de pagamentos e recorrência, e sempre busco novos desafios na área de desenvolvimento de software. Adoro explorar novas tecnologias e estou sempre em busca de oportunidades de aprendizado!
+Olá! Sou um desenvolvedor front-end apaixonado por criar soluções inovadoras e otimizar a experiência do usuário. Trabalho principalmente com **JavaScript**, **PHP**, **Next.js**, e **Adianti Framework**. Tenho experiência em projetos full-stack e adoro explorar novas tecnologias.
 
-Vamos nos conectar e trocar experiências! 😄
+Atualmente, estou focado no desenvolvimento de sistemas web, trabalhando em soluções de **pagamentos**, **assinaturas**, **recorrência**, e **fluxo de caixa**.
+
+🎯 Meu objetivo é construir software que simplifique e melhore a vida das pessoas. Vamos nos conectar e trocar ideias!
+
+---
+
+**Vamos conversar, aprender e crescer juntos!** 😄🚀
